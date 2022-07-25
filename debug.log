@@ -1,0 +1,15 @@
+2022-07-25 02:48:49,023 [INFO] Executing the query
+2022-07-25 02:48:49,024 [INFO] Start inserting records at: 2022-07-25 02:48:49.024095
+2022-07-25 02:48:49,439 [INFO] End inserting records at: 2022-07-25 02:48:49.439149
+2022-07-25 02:48:49,439 [INFO] Total number of records inserted: 4820
+2022-07-25 02:50:30,054 [INFO] Executing the query
+2022-07-25 02:50:30,054 [INFO] Start inserting records at: 2022-07-25 02:50:30.054444
+2022-07-25 03:12:23,460 [INFO] Executing the query
+2022-07-25 03:12:23,460 [INFO] Start inserting records at: 2022-07-25 03:12:23.460911
+2022-07-25 03:12:23,881 [INFO] End inserting records at: 2022-07-25 03:12:23.880984
+2022-07-25 03:12:23,881 [INFO] Total number of records inserted: 4820
+2022-07-25 03:12:30,879 [INFO] Executing the query
+2022-07-25 03:12:30,879 [INFO] Start inserting records at: 2022-07-25 03:12:30.879958
+2022-07-25 10:26:12,748 [INFO] Reading text file
+2022-07-25 10:26:12,749 [INFO] Executing the query
+2022-07-25 10:26:12,749 [INFO] Start inserting records at: 2022-07-25 10:26:12.749950
